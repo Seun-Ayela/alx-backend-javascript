@@ -1,0 +1,21 @@
+{
+  "name": "10-api",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+      "express": "^4.17.1"
+    },
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^10.2.0",
+    "request": "^2.88.0",
+    "sinon": "^15.2.0"
+  }
+}
